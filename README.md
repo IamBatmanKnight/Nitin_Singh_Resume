@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Hello there! 👋 I'm [Your Name], a [Your Profession/Title] with a passion for [Your Interests/Specializations]. This GitHub repository serves as my online resume, providing an overview of my skills, experiences, and projects.
+Highly motivated and enthusiastic computer science graduate seeking a challenging role in an innovative and growth-oriented organization. Looking to secure a position where I can apply my expertise in troubleshooting hardware and software issues, along with a solid foundation in computer applications. Proficient in Java and Python programming languages, I am eager to leverage my technical skills to contribute to a dynamic team.
 
 ## Table of Contents
 
@@ -17,19 +17,22 @@ Hello there! 👋 I'm [Your Name], a [Your Profession/Title] with a passion for 
 
 ## Skills
 
-- **Programming Languages:** [List of languages you are proficient in]
-- **Frameworks and Libraries:** [List of relevant frameworks and libraries]
-- **Tools:** [List of tools and technologies you are familiar with]
-- **Soft Skills:** [Communication, teamwork, problem-solving, etc.]
+- **Programming Languages:** Java, JavaScript, Python
+- **Frameworks and Libraries:** TailwindCSS, Bootstrap, ReactJS
+- **Tools:** Visiual Studio, IntelliJ IDEA
+- **Soft Skills:** Problem-solving, Excellent Communication, Customer Service, Team Collaboration, Time Management
 
 ## Education
+- **Bachelors in Computer Application**
+  - *University:* Chaudhary Charan Singh University
 
-**[Degree Earned], [University Name]**
-- *Major/Concentration:* [Your Major/Concentration]
-- *Graduation Year:* [Year]
-- *Relevant Courses:* [List a few relevant courses]
+- **Higher Secondary**
+  - *School:* Swami Vivekanand Inter College, Meerut, India
 
-## Experience
+- **High School**
+  - *School:* TSS Inter College, Hapur, India
+
+ <!-- ## Experience
 
 **[Job Title], [Company Name]**
 - *Date Range:* [Month/Year - Month/Year]
@@ -53,18 +56,17 @@ Hello there! 👋 I'm [Your Name], a [Your Profession/Title] with a passion for 
 
 - *Description:* [Brief description of the project]
 - *Technologies Used:* [List of technologies, languages, frameworks, etc.]
-- *Link:* [Link to the project repository or live demo]
+- *Link:* [Link to the project repository or live demo] -->
 
 ## Certifications
 
-- **[Certification Name], [Issuing Organization]**
-  - *Date Obtained:* [Month/Year]
-- **[Certification Name], [Issuing Organization]**
-  - *Date Obtained:* [Month/Year]
+- **The Complete JavaScript Course 2022: From Zero to Expert!, Udemy**
+- **Microsoft Office 365, Microsoft**
+- **Young Industry Enthusiast – Capital Markets, Infosys**
 
 ## Contact
 
-Feel free to reach out to me via email at [Your Email Address]. You can also connect with me on [LinkedIn](LinkedIn Profile URL) and [Twitter](Twitter Profile URL).
+Feel free to reach out to me via email at nitin914919@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/nitinbhojsingh).
 
 ---
 
