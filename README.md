@@ -1,4 +1,4 @@
-# Nitin_Singh_Resume
+## Nitin Singh
 ![Profile Picture](link-to-profile-picture.jpg)
 
 ## Introduction
