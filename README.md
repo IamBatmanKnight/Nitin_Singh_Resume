@@ -32,32 +32,6 @@ Highly motivated and enthusiastic computer science graduate seeking a challengin
 - **High School**
   - *School:* TSS Inter College, Hapur, India
 
- <!-- ## Experience
-
-**[Job Title], [Company Name]**
-- *Date Range:* [Month/Year - Month/Year]
-- *Responsibilities and Achievements:*
-  - [Bullet points highlighting your key responsibilities and achievements]
-
-**[Job Title], [Company Name]**
-- *Date Range:* [Month/Year - Month/Year]
-- *Responsibilities and Achievements:*
-  - [Bullet points highlighting your key responsibilities and achievements]
-
-## Projects
-
-### [Project Name]
-
-- *Description:* [Brief description of the project]
-- *Technologies Used:* [List of technologies, languages, frameworks, etc.]
-- *Link:* [Link to the project repository or live demo]
-
-### [Project Name]
-
-- *Description:* [Brief description of the project]
-- *Technologies Used:* [List of technologies, languages, frameworks, etc.]
-- *Link:* [Link to the project repository or live demo] -->
-
 ## Certifications
 
 - **The Complete JavaScript Course 2022: From Zero to Expert!, Udemy**
