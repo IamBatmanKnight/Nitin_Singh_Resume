@@ -1,5 +1,6 @@
 ## Nitin Singh
-![Profile Picture](link-to-profile-picture.jpg)
+![Profile Picture](![Copy of B612_20211011_163946_870](https://github.com/IamBatmanKnight/Nitin_Singh_Resume/assets/133223025/d3a10265-80d1-4da7-9395-1bf4b15ab16e)
+)
 
 ## Introduction
 
